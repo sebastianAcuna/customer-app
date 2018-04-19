@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.costumers-actions {
+  background: #AAA;
+  padding:10px;
+  margin:10px;
+}
+
+.costumers-actions button{
+  background: white;
+  min-width: 100px;
+  height: 30px;
+  margin: 5px;
+}
+.customers-list-item .field{
+  width: 160px;
+  padding: 4px;
+  background: #EEE;
+  display: inline-block;
+  margin: 1px;
+}
+.boton-new-client{
+  padding: 0.5em;
+  box-sizing: border-box;
+}
